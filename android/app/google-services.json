@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414717915990",
+    "project_id": "gangaram-restaurant",
+    "storage_bucket": "gangaram-restaurant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414717915990:android:19746ca78aea83ea1cdcf7",
+        "android_client_info": {
+          "package_name": "com.gangaram.mavericinfotech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmYy4W48rKxryM8tNIeWAK8Om5YC2N9X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
